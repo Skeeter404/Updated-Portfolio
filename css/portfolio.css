@@ -34,7 +34,7 @@ nav{
     background-color: rgba(0, 0, 0, 0.568);
     border-radius: 10px;
 }
-#hobby-contain{
+#exp-contain{
     border: solid white;
     color: white;
     margin-top: 10px;
@@ -57,13 +57,19 @@ h3 {
     margin-bottom: 5px;
 }
 #project1{
-    width: 49.5%;
+    width: 33%;
     display: inline-block;
     margin-top: 5px;
     margin-bottom: 5px;
 }
 #project2{
-    width: 49.5%;
+    width: 33%;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#project3{
+    width: 33%;
     display: inline-block;
     margin-top: 5px;
     margin-bottom: 5px;
